@@ -1,0 +1,20 @@
+{
+    "name": "sourovahmad/unzipper",
+    "description": "An easy way to unzip the files in laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sourovahmad",
+            "email": "mdsourovahmad19@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Sourovahmad\\Unzipper\\": "src/"
+        }
+    }
+}
