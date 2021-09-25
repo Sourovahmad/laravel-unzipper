@@ -1,5 +1,5 @@
 {
-    "name": "sourovahmad/laravel-unzipper",
+    "name": "sourovahmad/unzipper",
     "description": "An easy way to unzip the files in laravel",
     "type": "library",
     "license": "MIT",
