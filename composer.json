@@ -1,5 +1,5 @@
 {
-    "name": "sourovahmad/unzipper",
+    "name": "sourovahmad/laravel-unzipper",
     "description": "An easy way to unzip the files in laravel",
     "type": "library",
     "license": "MIT",
@@ -15,6 +15,13 @@
     "autoload": {
         "psr-4": {
             "Sourovahmad\\Unzipper\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sourovahmad\\Unzipper\\SourovahmadUnzipperServiceProvider"
+            ]
         }
     }
 }
