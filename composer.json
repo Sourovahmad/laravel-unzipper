@@ -1,6 +1,7 @@
 {
     "name": "sourovahmad/unzipper",
     "description": "An easy way to unzip the files in laravel",
+        "keywords": ["laravel", "laravel unzipper", "laravel unzip package", "unzip package laravel", "laravel", "unzip for laravel", "unzip", "laravel unzip file package"],
     "type": "library",
     "license": "MIT",
     "authors": [
